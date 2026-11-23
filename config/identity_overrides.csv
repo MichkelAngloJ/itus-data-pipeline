@@ -1,0 +1,2 @@
+company_id,vendor_id,isin,company_name,sector,valid_from,note
+C201,V201,INX000000201,Nova Industrial Components Ltd,Industrial Components,2025-11-01,Successor of C199+C200 (events E003/E004); missing from company_master. Sector taken from predecessors.
