@@ -1,0 +1,201 @@
+entity_id,vendor_id,company_name,isin,sector
+C001,V001,Aster Power Systems Ltd,INX000000001,Electrical Equipment
+C002,V002,Aster Auto Components Ltd,INX000000002,Auto Components
+C003,V003,Aster Electronics Ltd,INX000000003,Electronics
+C004,V004,Aster Industrial Systems Ltd,INX000000004,Industrial Machinery
+C005,V005,Aster Precision Engineering Ltd,INX000000005,Precision Engineering
+C006,V006,Aster Cooling Systems Ltd,INX000000006,Industrial Equipment
+C007,V007,Aster Motion Technologies Ltd,INX000000007,Auto Components
+C008,V008,Aster Control Systems Ltd,INX000000008,Electronics
+C009,V009,Aster Process Equipment Ltd,INX000000009,Industrial Machinery
+C010,V010,Aster Electricals Ltd,INX000000010,Electrical Equipment
+C011,V011,Beacon Power Systems Ltd,INX000000011,Electrical Equipment
+C012,V012,Beacon Auto Components Ltd,INX000000012,Auto Components
+C013,V013,Beacon Electronics Ltd,INX000000013,Electronics
+C014,V014,Beacon Industrial Systems Ltd,INX000000014,Industrial Machinery
+C015,V015,Beacon Precision Engineering Ltd,INX000000015,Precision Engineering
+C016,V016,Beacon Cooling Systems Ltd,INX000000016,Industrial Equipment
+C017,V017,Beacon Motion Technologies Ltd,INX000000017,Auto Components
+C018,V018,Beacon Control Systems Ltd,INX000000018,Electronics
+C019,V019,Beacon Process Equipment Ltd,INX000000019,Industrial Machinery
+C020,V020,Beacon Electricals Ltd,INX000000020,Electrical Equipment
+C021,V021,Crestline Power Systems Ltd,INX000000021,Electrical Equipment
+C022,V022,Crestline Auto Components Ltd,INX000000022,Auto Components
+C023,V023,Crestline Electronics Ltd,INX000000023,Electronics
+C024,V024,Crestline Industrial Systems Ltd,INX000000024,Industrial Machinery
+C025,V025,Crestline Precision Engineering Ltd,INX000000025,Precision Engineering
+C026,V026,Crestline Cooling Systems Ltd,INX000000026,Industrial Equipment
+C027,V027,Crestline Motion Technologies Ltd,INX000000027,Auto Components
+C028,V028,Crestline Control Systems Ltd,INX000000028,Electronics
+C029,V029,Crestline Process Equipment Ltd,INX000000029,Industrial Machinery
+C030,V030,Crestline Electricals Ltd,INX000000030,Electrical Equipment
+C031,V031,Deccan Power Systems Ltd,INX000000031,Electrical Equipment
+C032,V032,Deccan Auto Components Ltd,INX000000032,Auto Components
+C033,V033,Deccan Electronics Ltd,INX000000033,Electronics
+C034,V034,Deccan Industrial Systems Ltd,INX000000034,Industrial Machinery
+C035,V035,Deccan Precision Engineering Ltd,INX000000035,Precision Engineering
+C036,V036,Deccan Cooling Systems Ltd,INX000000036,Industrial Equipment
+C037,V037,Deccan Motion Technologies Ltd,INX000000037,Auto Components
+C038,V038,Deccan Control Systems Ltd,INX000000038,Electronics
+C039,V039,Deccan Process Equipment Ltd,INX000000039,Industrial Machinery
+C040,V040,Deccan Electricals Ltd,INX000000040,Electrical Equipment
+C041,V041,Elara Power Systems Ltd,INX000000041,Electrical Equipment
+C042,V042,Elara Auto Components Ltd,INX000000042,Auto Components
+C043,V043,Elara Electronics Ltd,INX000000043,Electronics
+C044,V044,Elara Industrial Systems Ltd,INX000000044,Industrial Machinery
+C045,V045,Elara Precision Engineering Ltd,INX000000045,Precision Engineering
+C046,V046,Elara Cooling Systems Ltd,INX000000046,Industrial Equipment
+C047,V047,Elara Motion Technologies Ltd,INX000000047,Auto Components
+C048,V048,Elara Control Systems Ltd,INX000000048,Electronics
+C049,V049,Elara Process Equipment Ltd,INX000000049,Industrial Machinery
+C050,V050,Elara Electricals Ltd,INX000000050,Electrical Equipment
+C051,V051,Frontier Power Systems Ltd,INX000000051,Electrical Equipment
+C052,V052,Frontier Auto Components Ltd,INX000000052,Auto Components
+C053,V053,Frontier Electronics Ltd,INX000000053,Electronics
+C054,V054,Frontier Industrial Systems Ltd,INX000000054,Industrial Machinery
+C055,V055,Frontier Precision Engineering Ltd,INX000000055,Precision Engineering
+C056,V056,Frontier Cooling Systems Ltd,INX000000056,Industrial Equipment
+C057,V057,Frontier Motion Technologies Ltd,INX000000057,Auto Components
+C058,V058,Frontier Control Systems Ltd,INX000000058,Electronics
+C059,V059,Frontier Process Equipment Ltd,INX000000059,Industrial Machinery
+C060,V060,Frontier Electricals Ltd,INX000000060,Electrical Equipment
+C061,V061,Galaxy Power Systems Ltd,INX000000061,Electrical Equipment
+C062,V062,Galaxy Auto Components Ltd,INX000000062,Auto Components
+C063,V063,Galaxy Electronics Ltd,INX000000063,Electronics
+C064,V064,Galaxy Industrial Systems Ltd,INX000000064,Industrial Machinery
+C065,V065,Galaxy Precision Engineering Ltd,INX000000065,Precision Engineering
+C066,V066,Galaxy Cooling Systems Ltd,INX000000066,Industrial Equipment
+C067,V067,Galaxy Motion Technologies Ltd,INX000000067,Auto Components
+C068,V068,Galaxy Control Systems Ltd,INX000000068,Electronics
+C069,V069,Galaxy Process Equipment Ltd,INX000000069,Industrial Machinery
+C070,V070,Galaxy Electricals Ltd,INX000000070,Electrical Equipment
+C071,V071,Helios Power Systems Ltd,INX000000071,Electrical Equipment
+C072,V072,Helios Auto Components Ltd,INX000000072,Auto Components
+C073,V073,Helios Electronics Ltd,INX000000073,Electronics
+C074,V074,Helios Industrial Systems Ltd,INX000000074,Industrial Machinery
+C075,V075,Helios Precision Engineering Ltd,INX000000075,Precision Engineering
+C076,V076,Helios Cooling Systems Ltd,INX000000076,Industrial Equipment
+C077,V077,Helios Motion Technologies Ltd,INX000000077,Auto Components
+C078,V078,Helios Control Systems Ltd,INX000000078,Electronics
+C079,V079,Helios Process Equipment Ltd,INX000000079,Industrial Machinery
+C080,V080,Helios Electricals Ltd,INX000000080,Electrical Equipment
+C081,V081,Indus Power Systems Ltd,INX000000081,Electrical Equipment
+C082,V082,Indus Auto Components Ltd,INX000000082,Auto Components
+C083,V083,Indus Electronics Ltd,INX000000083,Electronics
+C084,V084,Indus Industrial Systems Ltd,INX000000084,Industrial Machinery
+C085,V085,Indus Precision Engineering Ltd,INX000000085,Precision Engineering
+C086,V086,Indus Cooling Systems Ltd,INX000000086,Industrial Equipment
+C087,V087,Indus Motion Technologies Ltd,INX000000087,Auto Components
+C088,V088,Indus Control Systems Ltd,INX000000088,Electronics
+C089,V089,Indus Process Equipment Ltd,INX000000089,Industrial Machinery
+C090,V090,Indus Electricals Ltd,INX000000090,Electrical Equipment
+C091,V091,Jupiter Power Systems Ltd,INX000000091,Electrical Equipment
+C092,V092,Jupiter Auto Components Ltd,INX000000092,Auto Components
+C093,V093,Jupiter Electronics Ltd,INX000000093,Electronics
+C094,V094,Jupiter Industrial Systems Ltd,INX000000094,Industrial Machinery
+C095,V095,Jupiter Precision Engineering Ltd,INX000000095,Precision Engineering
+C096,V096,Jupiter Cooling Systems Ltd,INX000000096,Industrial Equipment
+C097,V097,Jupiter Motion Technologies Ltd,INX000000097,Auto Components
+C098,V098,Jupiter Control Systems Ltd,INX000000098,Electronics
+C099,V099,Jupiter Process Equipment Ltd,INX000000099,Industrial Machinery
+C100,V100,Jupiter Electricals Ltd,INX000000100,Electrical Equipment
+C101,V101,Keystone Power Systems Ltd,INX000000101,Electrical Equipment
+C102,V102,Keystone Auto Components Ltd,INX000000102,Auto Components
+C103,V103,Keystone Electronics Ltd,INX000000103,Electronics
+C104,V104,Keystone Industrial Systems Ltd,INX000000104,Industrial Machinery
+C105,V105,Keystone Precision Engineering Ltd,INX000000105,Precision Engineering
+C106,V106,Keystone Cooling Systems Ltd,INX000000106,Industrial Equipment
+C107,V107,Keystone Motion Technologies Ltd,INX000000107,Auto Components
+C108,V108,Keystone Control Systems Ltd,INX000000108,Electronics
+C109,V109,Keystone Process Equipment Ltd,INX000000109,Industrial Machinery
+C110,V110,Keystone Electricals Ltd,INX000000110,Electrical Equipment
+C111,V111,Lumina Power Systems Ltd,INX000000111,Electrical Equipment
+C112,V112,Lumina Auto Components Ltd,INX000000112,Auto Components
+C113,V113,Lumina Electronics Ltd,INX000000113,Electronics
+C114,V114,Lumina Industrial Systems Ltd,INX000000114,Industrial Machinery
+C115,V115,Lumina Precision Engineering Ltd,INX000000115,Precision Engineering
+C116,V116,Lumina Cooling Systems Ltd,INX000000116,Industrial Equipment
+C117,V117,Lumina Motion Technologies Ltd,INX000000117,Auto Components
+C118,V118,Lumina Control Systems Ltd,INX000000118,Electronics
+C119,V119,Lumina Process Equipment Ltd,INX000000119,Industrial Machinery
+C120,V120,Lumina Electricals Ltd,INX000000120,Electrical Equipment
+C121,V121,Meridian Power Systems Ltd,INX000000121,Electrical Equipment
+C122,V122,Meridian Auto Components Ltd,INX000000122,Auto Components
+C123,V123,Meridian Electronics Ltd,INX000000123,Electronics
+C124,V124,Meridian Industrial Systems Ltd,INX000000124,Industrial Machinery
+C125,V125,Meridian Precision Engineering Ltd,INX000000125,Precision Engineering
+C126,V126,Meridian Cooling Systems Ltd,INX000000126,Industrial Equipment
+C127,V127,Meridian Motion Technologies Ltd,INX000000127,Auto Components
+C128,V128,Meridian Control Systems Ltd,INX000000128,Electronics
+C129,V129,Meridian Process Equipment Ltd,INX000000129,Industrial Machinery
+C130,V130,Meridian Electricals Ltd,INX000000130,Electrical Equipment
+C131,V131,Nexa Power Systems Ltd,INX000000131,Electrical Equipment
+C132,V132,Nexa Auto Components Ltd,INX000000132,Auto Components
+C133,V133,Nexa Electronics Ltd,INX000000133,Electronics
+C134,V134,Nexa Industrial Systems Ltd,INX000000134,Industrial Machinery
+C135,V135,Nexa Precision Engineering Ltd,INX000000135,Precision Engineering
+C136,V136,Nexa Cooling Systems Ltd,INX000000136,Industrial Equipment
+C137,V137,Nexa Motion Technologies Ltd,INX000000137,Auto Components
+C138,V138,Nexa Control Systems Ltd,INX000000138,Electronics
+C139,V139,Nexa Process Equipment Ltd,INX000000139,Industrial Machinery
+C140,V140,Nexa Electricals Ltd,INX000000140,Electrical Equipment
+C141,V141,Orion Power Systems Ltd,INX000000141,Electrical Equipment
+C142,V142,Orion Auto Components Ltd,INX000000142,Auto Components
+C143,V143,Orion Electronics Ltd,INX000000143,Electronics
+C144,V144,Orion Industrial Systems Ltd,INX000000144,Industrial Machinery
+C145,V145,Orion Precision Engineering Ltd,INX000000145,Precision Engineering
+C146,V146,Orion Cooling Systems Ltd,INX000000146,Industrial Equipment
+C147,V147,Orion Motion Technologies Ltd,INX000000147,Auto Components
+C148,V148,Orion Control Systems Ltd,INX000000148,Electronics
+C149,V149,Orion Process Equipment Ltd,INX000000149,Industrial Machinery
+C150,V150,Orion Electricals Ltd,INX000000150,Electrical Equipment
+C151,V151,Aster Electronics Ltd,INX000000151,Electronics
+C152,V152,Aster Electronic Systems Ltd,INX000000152,Electronics
+C153,V153,Pioneer Electronics Ltd,INX000000153,Electronics
+C154,V154,Pioneer Industrial Systems Ltd,INX000000154,Industrial Machinery
+C155,V155,Pioneer Precision Engineering Ltd,INX000000155,Precision Engineering
+C156,V156,Pioneer Cooling Systems Ltd,INX000000156,Industrial Equipment
+C157,V157,Pioneer Motion Technologies Ltd,INX000000157,Auto Components
+C158,V158,Pioneer Control Systems Ltd,INX000000158,Electronics
+C159,V159,Pioneer Process Equipment Ltd,INX000000159,Industrial Machinery
+C160,V160,Pioneer Electricals Ltd,INX000000160,Electrical Equipment
+C161,V161,Quanta Power Systems Ltd,INX000000161,Electrical Equipment
+C162,V162,Quanta Auto Components Ltd,INX000000162,Auto Components
+C163,V163,Quanta Electronics Ltd,INX000000163,Electronics
+C164,V164,Quanta Industrial Systems Ltd,INX000000164,Industrial Machinery
+C165,V165,Quanta Precision Engineering Ltd,INX000000165,Precision Engineering
+C166,V166,Quanta Cooling Systems Ltd,INX000000166,Industrial Equipment
+C167,V167,Quanta Motion Technologies Ltd,INX000000167,Auto Components
+C168,V168,Quanta Control Systems Ltd,INX000000168,Electronics
+C169,V169,Quanta Process Equipment Ltd,INX000000169,Industrial Machinery
+C170,V170,Quanta Electricals Ltd,INX000000170,Electrical Equipment
+C171,V171,Riviera Power Systems Ltd,INX000000171,Electrical Equipment
+C172,V172,Riviera Auto Components Ltd,INX000000172,Auto Components
+C173,V173,Riviera Electronics Ltd,INX000000173,Electronics
+C174,V174,Riviera Industrial Systems Ltd,INX000000174,Industrial Machinery
+C175,V175,Riviera Precision Engineering Ltd,INX000000175,Precision Engineering
+C176,V176,Riviera Cooling Systems Ltd,INX000000176,Industrial Equipment
+C177,V177,Riviera Motion Technologies Ltd,INX000000177,Auto Components
+C178,V178,Riviera Control Systems Ltd,INX000000178,Electronics
+C179,V179,Riviera Process Equipment Ltd,INX000000179,Industrial Machinery
+C180,V180,Riviera Electricals Ltd,INX000000180,Electrical Equipment
+C181,V181,Sterling Power Systems Ltd,INX000000181,Electrical Equipment
+C182,V182,Sterling Auto Components Ltd,INX000000182,Auto Components
+C183,V183,Sterling Electronics Ltd,INX000000183,Electronics
+C184,V184,Sterling Industrial Systems Ltd,INX000000184,Industrial Machinery
+C185,V185,Sterling Precision Engineering Ltd,INX000000185,Precision Engineering
+C186,V186,Sterling Cooling Systems Ltd,INX000000186,Industrial Equipment
+C187,V187,Sterling Motion Technologies Ltd,INX000000187,Auto Components
+C188,V188,Sterling Control Systems Ltd,INX000000188,Electronics
+C189,V189,Sterling Process Equipment Ltd,INX000000189,Industrial Machinery
+C190,V190,Sterling Electricals Ltd,INX000000190,Electrical Equipment
+C191,V191,Trident Power Systems Ltd,INX000000191,Electrical Equipment
+C192,V192,Trident Auto Components Ltd,INX000000192,Auto Components
+C193,V193,Trident Electronics Ltd,INX000000193,Electronics
+C194,V194,Trident Industrial Systems Ltd,INX000000194,Industrial Machinery
+C195,V195,Trident Precision Engineering Ltd,INX000000195,Precision Engineering
+C196,V196,Trident Cooling Systems Ltd,INX000000196,Industrial Equipment
+C197,V197,Trident Motion Technologies Ltd,INX000000197,Auto Components
+C198,V198,Trident Control Systems Ltd,INX000000198,Electronics
+C199,V199,Keystone Sensor Components Ltd,INX000000199,Industrial Components
+C200,V200,Lumina Bearing Systems Ltd,INX000000200,Industrial Components

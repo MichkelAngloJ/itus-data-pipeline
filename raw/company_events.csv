@@ -1,0 +1,5 @@
+event_id,event_type,effective_date,entity_id,old_value,new_value,notes
+E001,name_change,2025-07-01,C007,Aster Motion Technologies Ltd,Aster Mobility Technologies Ltd,Same legal entity; ISIN unchanged
+E002,vendor_id_change,2025-09-01,C009,V009,V909,Same legal entity; ISIN unchanged
+E003,merger,2025-11-01,C199,Keystone Sensor Components Ltd,C201,Merged into new successor entity C201
+E004,merger,2025-11-01,C200,Lumina Bearing Systems Ltd,C201,Merged into new successor entity C201

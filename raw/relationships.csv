@@ -1,0 +1,14 @@
+subject,relationship,object,valid_from,valid_to,source,confidence
+Aster Power Systems Ltd,makes,Power Transformer,2022-01-01,,company_report,0.95
+Power Transformer,sold_to,Power Utilities,2022-01-01,,industry_report,0.9
+Power Utilities,affected_by,Grid Investment,2021-01-01,,internal_research,0.8
+Aster Power Systems Ltd,makes,Distribution Transformer,2025-04-01,,company_report,0.95
+Aster Cooling Systems Ltd,makes,Industrial Chiller,2020-01-01,,company_report,0.95
+Industrial Chiller,sold_to,Data Centres,2023-01-01,,industry_report,0.9
+Data Centres,affected_by,Cloud Capex,2023-01-01,,internal_research,0.8
+Aster Motion Technologies Ltd,makes,Drive Assembly,2020-01-01,2025-06-30,company_report,0.95
+Aster Mobility Technologies Ltd,makes,Drive Assembly,2025-07-01,,company_report,0.95
+Keystone Sensor Components Ltd,makes,Sensor Module,2020-01-01,2025-10-31,company_report,0.95
+Lumina Bearing Systems Ltd,makes,Industrial Bearing,2019-01-01,2025-10-31,company_report,0.95
+Nova Industrial Components Ltd,makes,Sensor Module,2025-11-01,,company_event,0.9
+Nova Industrial Components Ltd,makes,Industrial Bearing,2025-11-01,,company_event,0.9
